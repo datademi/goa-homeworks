@@ -1,5 +1,5 @@
 from turtle import *
-speed(100)
+speed(10)
 width(9)
 
 
