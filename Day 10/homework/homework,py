@@ -1,0 +1,29 @@
+for i in range(20):
+    print(i)
+
+for i in range(56):
+    print(i)
+
+for num in range(76):
+    print("23+23")
+
+for i in range(65):
+    print(i)
+
+for i in range(2):
+    print(i)
+
+for i in range(87):
+    print(i)
+
+for num in range(20):
+    print("wereteli")
+
+for i in range(20):
+    print(i)
+
+for i in range(29):
+    print(i)
+
+for num in range(20):
+    print("goa")

@@ -1,0 +1,6 @@
+introduction  = "goashi shemosvlistanave gavicani chemi razmis lideri nika gelenidze aseve sxva razmis liderigiorgi vanishvili romelic mexmareboda roca nikas ar ecala aseve vicnob nikusha sardanadzes da giorgis robakidzes vapireb naxevari goas moswavleebi gavicno davuaxlovde nu chemi mizani goashi dasaqmebaa da yvelanairad shevecdebi masqimaluri gavaketo amistvis"
+
+
+about_goa = "goashi rogorc ki shemovedi dzalian didi yuradgeba vigrdzeni rogorc ki chatshi damamates razmis liderebma momweres armegona swavla aseti saxaliso tu iqneboda  gavxdi ufro motivirebuli wavshale tamashebi da minda dro davutmo mtlianad programirebas da ara tamashebs aramed mtliani dro saganamanatleblod gamoviyeno minda chems tavs davumtkico risi gaketeba shemidzlia vfiqrob es akademia yvela problemis agmofxvrashi damexmareba roca skolashi mivdiodi naxevarze meti sagani armainteresebda da interesi mekargeboda skolashi wasvlis magram dzalian mixaria rom mivageni msoflioshi sauketeso akademias romelic shesadzleblobas momcems ganvavitaro chemi shesadzleblobebi swavlis done aramxolod programirebashi aramed cxovrebashic ufro high levelze avide dzalian didi molodinebimaqvs da msurs gavxde goas ertierti sauketeso moswavle romelic goashi dasaqmdeba da sxva bavshvebsac aswavlis shemdgom iq sadac tviton iswavla"
+
+print(introduction + " " +  about_goa)
